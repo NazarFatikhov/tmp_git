@@ -6,7 +6,7 @@
 
 Что закомитить, нужно использовать команду как в примере:
 
-    git commit -m "Говнище и Kal"
+    git commit -m "Говнище и Kal 2"
 
 Здесь моя ссылка на [мой гитхаб](https://github.com/NazarFatikhov)
 
